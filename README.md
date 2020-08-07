@@ -1,0 +1,1 @@
+# humhub-affiliate-module
